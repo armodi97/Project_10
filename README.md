@@ -48,11 +48,3 @@ El análisis concluye que los cálculos de recuperación de oro en los datos ori
 - **Python 3.7+**
 - Librerías: `pandas`, `numpy`, `plotly`, `scipy`, `sklearn`
 
-## Cómo Ejecutar el Proyecto
-
-1. Clona el repositorio.
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ejecuta el notebook `projecto_10.ipynb` para reproducir el análisis y los resultados.
